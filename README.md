@@ -33,7 +33,8 @@
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/DarkxDev)
+- GitHub: [@DarkxDev](https://github.com/DarkxDev)
+- Twitter: [@BryanHurtado_](https://twitter.com/BryanHurtado_)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
