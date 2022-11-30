@@ -9,9 +9,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello World] <a name="about-project"></a>
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
-**[Hello World]** is a Microverse practice project.
+**[Hello Microverse]** is a Microverse practice project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
