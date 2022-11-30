@@ -10,9 +10,9 @@ feature-a
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-**[Hello Microverse]** is a Microverse practice project.
+Hello Microverse is a Microverse practice project.
 
 ## 🛠 Built With <a name="built-with"></a>
 
