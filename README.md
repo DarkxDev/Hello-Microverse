@@ -21,7 +21,7 @@ feature-a
 <details>
   <summary>Languages</summary>
   <ul>
-    <li>HMTL</li>
+    <li>HTML</li>
     <li>CSS</li>
   </ul>
 </details>
